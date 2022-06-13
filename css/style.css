@@ -1,0 +1,24 @@
+.main {
+    border: 2px solid black;
+    background-color: beige;
+    text-align: center;
+    margin: auto 400px;
+    padding: 5px;
+}
+
+img {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+button {
+    padding: auto 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+    box-shadow: 1px;
+    margin: 5px;
+}
